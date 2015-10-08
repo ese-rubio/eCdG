@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ElCajonDeGatsby</string>
+
+    <!-- MENU DESPLEGABLE -->
+        <string name="menu_configuracion">Configuración</string>
+        <string name="menu_favoritos">Favoritos</string>
+        <string name="menu_acercaDe">Acerca de...</string>
+        <string name="menu_salir">Salir</string>
+</resources>
